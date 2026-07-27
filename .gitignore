@@ -1,0 +1,11 @@
+# local
+.DS_Store
+node_modules/
+*.log
+
+# local helper scripts
+push-to-github.sh
+push-to-github.bat
+
+# local working notes
+PORTFOLIO-NOTES.md

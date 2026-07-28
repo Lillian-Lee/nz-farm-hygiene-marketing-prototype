@@ -1,18 +1,12 @@
 # New Zealand Farm-Hygiene Ecommerce Marketing Prototype
 
-**A digital-marketing portfolio project — end-to-end ecommerce campaign for a *fictional* NZ farm-hygiene brand, "HerdGuard".**
+**An ecommerce marketing portfolio project for the New Zealand dairy and poultry hygiene market.**
 
-> ### ⚠️ Scope & honesty statement
-> This is a **clearly-labelled portfolio prototype** built to demonstrate ecommerce digital-marketing skills (Shopify-style store, SEO, Meta campaign, email, GA4 measurement).
->
-> - **HerdGuard is a made-up brand.** Every page, product and screenshot is labelled as a portfolio prototype.
-> - This is **not** work for any real company, and must never be presented as such.
-> - **No ads were run, no money was spent, no real sales occurred.** All metrics shown are illustrative placeholders to demonstrate report layout.
-> - Product claims are deliberately hedged; anything that would need lab data, registration or real testimonials is flagged, not asserted.
+> **Project scope:** A fictional-brand prototype covering ecommerce content, SEO, Meta campaign planning, email campaign design and GA4 measurement planning. No live advertising, customer data or sales results are claimed. [View limitations](assumptions.md).
 
-It demonstrates the full ecommerce marketing loop — storefront, SEO, paid social, email and analytics — grounded in research into the New Zealand farming audience and written in their own language.
+## Project overview
 
----
+I created a responsive storefront and supporting digital marketing assets based on research into New Zealand dairy and poultry hygiene customers.
 
 ## What's inside
 
@@ -62,8 +56,8 @@ A one-page dashboard that keeps **awareness, engagement and sales** as separate 
 
 ## The two products
 
-1. **HerdGuard Teat Spray Concentrate** — emollient-rich post-milking teat spray (dairy).
-2. **HerdGuard Shed & Footbath Disinfectant** — broad-spectrum concentrate for cleaning, disinfection and footbaths (dairy + poultry biosecurity).
+1. **HerdGuard Teat Spray Concept**: a post-milking teat-spray product concept for dairy farms.
+2. **HerdGuard Shed & Footbath Disinfectant Concept**: a hygiene-product concept for dairy and poultry environments.
 
 Both are grounded in real, cited NZ industry guidance (DairyNZ, MPI) for *messaging* — see [`01-research`](01-research/audience-and-vocabulary.md).
 
@@ -82,4 +76,4 @@ start 02-shopify-store\index.html     # Windows
 Shopify-style storefront & product merchandising · on-page SEO & internal linking · Meta ad strategy and creative · content calendar & social copywriting · email marketing · GA4 event design & funnel analysis · audience research and copy in the customer's own language.
 
 ---
-*Built July 2026 as a portfolio piece. Fictional brand. Not affiliated with any real company.*
+
